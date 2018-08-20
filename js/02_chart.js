@@ -19,8 +19,8 @@ var paragrafy = {
 
 var trvani = {
     'delkaodspachanidopm': ['od spáchání do právní moci rozsudku', 'rok právní moci'],
-    'delkaodstihanidorozhodnuti': ['od zahájení stíhání do rozsudku', 'rok zahájení stíhání'],
-    'odspachanidorozhodnuti': ['od spáchání do rozsudku', 'rok spáchání'],
+    'delkaodstihanidorozhodnuti': ['od zahájení stíhání do rozsudku', 'rok rozsudku'],
+    'odspachanidorozhodnuti': ['od spáchání do rozsudku', 'rok rozsudku'],
     'odspachanidostihani': ['od spáchání do zahájení stíhání', 'rok zahájení stíhání']
 };
 

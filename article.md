@@ -32,6 +32,12 @@ Obdobně, i když pomaleji pak poklesl průměrný čas, který justice potřebo
 <div class="chart" id="agg_delkaodspachanidopm"></div>
 </wide>
 
+"Největší vliv bude mít zkrácení doby trestního řízení v obvodu Krajského soudu Ústí nad Labem, které je dáno masivním nárůstem počtu soudců okresních soudů v tomto soudním kraji," napsal serveru iROZHLAS viceprezident soudcovské unie a táborský trestní soudce Petr Černý. Dalších příčin je pak podle něc celá řada. Například setrvale klesá celkový počet trestných činů, což soudcům uvolňuje ruce.
+
+Soudci také dostávají více asistentů. "Ti jsou schopni jednodušší případy připravit  k vydání trestního příkazu nebo k hlavnímu líčení. Soudce pak neztrácí čas a může se soustředit na skutkově či právně složitější kauzy, na něž se dříve nedostávalo tolik prostoru," vysvětluje Černý. 
+
+Rychlejšímu skončení věci pak nahrály i v minulosti zavedené procesní úpravy. "U podvodů a podobné trestné činnosti se tak předešlo mnohdy několikadennímu úmornému čtení stovek faktur, účetních závěrek a podobně," dodává. A v neposlední řadě jsou policisté i státní zástupci zkušenější. "Před 20 lety, kdy jsem začínal, byla takzvaná _skupinovka_ se 3 pachateli věc téměř nevídaná, a když se u okresního soudu v Jižních Čechách, kde jsem začínal, objevila, mohl si být soudce, kterému napadla téměř jist, že další dostane nejdříve za rok," uzavírá Černý.
+
 Na rychlost vyřízení případu má vliv i to, zda soudce použije [trestní příkaz](https://cs.wikipedia.org/wiki/Trestn%C3%AD_p%C5%99%C3%ADkaz) a obviněný výsledek soudu přijme (pokud ne, odehraje se standardní líčení). Trestním příkazem je možné trestat jen jasně dokázané přečiny a nelze jím někoho poslat do vězení. Používá se tak k trestání [fotbalových chuligánů](https://www.ceskatelevize.cz/sport/fotbal/nizsi-souteze/351746-za-vytrznosti-v-opave-padaly-tresty-podminka-pokuta-i-prospesne-prace/?mobileRedirect=off) či [pouličních rváčů](https://www.seznamzpravy.cz/clanek/trest-za-peprovy-sprej-do-obliceje-bezdomovcu-na-sjezdu-cssd-je-definitivni-kotrba-slibil-ze-zaplati-47045).
 
 Podle [výroční statistické zprávy ministerstva spravedlnosti](https://portal.justice.cz/Justice2/MS/ms.aspx?j=33&o=23&k=7039&d=360282) pak trestním příkazem skončí i 80 % všech případů řízení pod vlivem alkoholu.
