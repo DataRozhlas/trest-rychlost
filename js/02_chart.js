@@ -18,10 +18,10 @@ var paragrafy = {
 };
 
 var trvani = {
-    'delkaodspachanidopm': 'od spáchání do právní moci rozsudku',
-    'delkaodstihanidorozhodnuti': 'od zahájení stíhání do rozsudku',
-    'odspachanidorozhodnuti': 'od spáchání do rozsudku',
-    'odspachanidostihani': 'od spáchání do zahájení stíhání'
+    'delkaodspachanidopm': ['od spáchání do právní moci rozsudku', 'rok právní moci'],
+    'delkaodstihanidorozhodnuti': ['od zahájení stíhání do rozsudku', 'rok zahájení stíhání'],
+    'odspachanidorozhodnuti': ['od spáchání do rozsudku', 'rok spáchání'],
+    'odspachanidostihani': ['od spáchání do zahájení stíhání', 'rok zahájení stíhání']
 };
 
 var typy = {
@@ -31,6 +31,7 @@ var typy = {
 
 function getCol(srs) {
     var out = '';
+    var rk;
 
     Object.keys(paragrafy).forEach(function(v) { // paragraf
         if (srs.includes(v)) {
@@ -40,7 +41,8 @@ function getCol(srs) {
 
     Object.keys(trvani).forEach(function(v) { // období trvání
         if (srs.includes(v)) {
-            out += ' (' + trvani[v] + ')';
+            out += ' (' + trvani[v][0] + ')';
+            rk = trvani[v][1];
         };
     });
 
@@ -54,20 +56,23 @@ function getCol(srs) {
         out = 'všechny trestné činy' + out;
     };
 
-    return out;
+    return [out, rk];
 };
 
 function drawChart(srs) {
     Highcharts.chart(srs, {
         title: {
-            text: getCol(srs)
+            text: getCol(srs)[0]
         },
         xAxis: {
-            categories: data[srs].roky
+            categories: data[srs].roky,
+            title: {
+                text: getCol(srs)[1]
+            }
         },
         yAxis: {
             title: {
-                text: null
+                text: 'počet dní'
             }
         },
         credits: {

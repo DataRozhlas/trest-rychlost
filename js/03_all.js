@@ -7,7 +7,7 @@ function changeChart() {
 
 var sel = '';
 Object.keys(data).forEach(function(f) {
-    sel += '<option value="' + f + '">' + getCol(f) + '</option>'
+    sel += '<option value="' + f + '">' + getCol(f)[0] + '</option>'
 });
 
 document.getElementById('all_sel').innerHTML = sel;

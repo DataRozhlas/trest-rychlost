@@ -42,12 +42,7 @@ Statistiky ukazují, že věci vyřešené trestním příkazem jsou opravdu vý
 <div class="chart" id="aggTP_delkaodspachanidopm"></div>
 </wide>
 
-I když celkově trestání v Česku zrychluje, jsou přečiny a zločiny, kde se situace v posledních letech mírně zhoršila. Jde například o zanedbání povinné výživy, a zatím co práce policie je tu již řadu let svižná (aby taky ne, pachatel je vždy bezpečně známý), od roku 2005 vzrostla jak průměrná, tak i maximální doba potřebná k vydání pravomocného rozsudku.
-
-
-<wide>
-<div class="chart" id="agg196_odspachanidostihani"></div>
-</wide>
+I když celkově trestání v Česku zrychluje, jsou přečiny a zločiny, kde se situace v posledních letech mírně zhoršila. Jde například o zanedbání povinné výživy. Práce policie by tu měla být svižná svižná, pachatel je vždy bezpečně známý, od roku 2005 ale vzrostla jak průměrná, tak i maximální doba potřebná k vydání pravomocného rozsudku.
 
 <wide>
 <div class="chart" id="agg196_delkaodspachanidopm"></div>
