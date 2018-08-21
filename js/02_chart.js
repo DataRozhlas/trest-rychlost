@@ -31,39 +31,43 @@ var typy = {
 
 function getCol(srs) {
     var out = '';
+    var subOut = '';
     var rk;
 
     Object.keys(paragrafy).forEach(function(v) { // paragraf
         if (srs.includes(v)) {
-            out += paragrafy[v];
+            subOut += paragrafy[v];
         }
     });
 
     Object.keys(trvani).forEach(function(v) { // období trvání
         if (srs.includes(v)) {
-            out += ' (' + trvani[v][0] + ')';
+            out += trvani[v][0];
             rk = trvani[v][1];
         };
     });
 
     Object.keys(typy).forEach(function(v) { // bez příkazů nebo s
         if (srs.includes(v)) {
-            out = out.replace(')', ', ' + typy[v] + ')');
+            subOut += ' (' + typy[v] + ')'
         };
     });
 
-    if ((srs.split('_')[0] == 'agg') | (srs.split('_')[0] == 'aggbezTP'))  {
-        out = 'všechny trestné činy' + out;
+    if ((srs.split('_')[0] == 'agg') | (srs.split('_')[0] == 'aggbezTP') | (srs.split('_')[0] == 'aggTP'))  {
+        subOut = 'všechny trestné činy' + subOut;
     };
 
-    return [out, rk];
+    return [out, rk, subOut];
 };
 
 function drawChart(srs) {
     Highcharts.chart(srs, {
         title: {
-            text: getCol(srs)[0]
+            text: 'Kolik dnů uplyne ' +  getCol(srs)[0]
         },
+        subtitle: {
+            text: getCol(srs)[2]
+        }, 
         xAxis: {
             categories: data[srs].roky,
             title: {
