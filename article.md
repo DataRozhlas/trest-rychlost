@@ -57,10 +57,7 @@ Statistiky ukazují, že věci vyřešené trestním příkazem jsou opravdu vý
 I když z dlouhodobého pohledu trestání v Česku zrychlilo, například u zanedbání povinné výživy se situace v posledních deseti letech zhoršila. Práce policie by tu měla být svižná svižná, pachatel je vždy bezpečně známý, od roku 2005 ale vzrostla jak průměrná, tak i maximální doba potřebná k vydání pravomocného rozsudku.
 
 <right>
-<p>
-	<b>Pátí v Evropě</b>
-</p>
-<p>Celoevropské srovnání <a href="https://ec.europa.eu/info/policies/justice-and-fundamental-rights/effective-justice/eu-justice-scoreboard_en">EU Justice Scoreboard</a> porovnává rychlost soudů v členských státech, srovnání se ale týká jen civilních, obchodních a správních případů, trestní věci zahrnuty nejsou.</p><p>Jedinou výjimkou je praní špinavých peněz, které se v Česku řeší necelých 200 dní, což je pátý nejlepší výsledek.</p>
+<p>Celoevropské srovnání <a href="https://ec.europa.eu/info/policies/justice-and-fundamental-rights/effective-justice/eu-justice-scoreboard_en">EU Justice Scoreboard</a> porovnává rychlost soudů v členských státech, srovnání se ale týká jen civilních, obchodních a správních případů, trestní věci (s výjimkou praní špinavých peněz) ale zahrnuty nejsou.</p>
 </right>
 
 "Vzrostl počet případů, v nichž povinný opustil území České republiky, nebo se vysloveně jedná o cizince, který se vrátil do domovského státu, se kterým je mnohdy problematická spolupráce," vysvětluje soudce Černý, které čerpá ze svých debat s kolegy. Takové případy pak vyžadují spolupráci policií a případně i Interpolem. 
