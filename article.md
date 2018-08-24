@@ -8,11 +8,11 @@ styles: []
 libraries: [highcharts, "https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.1.1/highcharts-more.js", ] #jquery, d3, d3v5, d3csv, highcharts, datatables
 options: [] #wide, noheader (, nopic)
 ---
-Čím dříve trestný čin skončí pravomocným rozsudkem, tím dříve se obětem dostane zadostiučinění a také často odškodnění. Proto je délka řízení bedlivě sledovaná a často i kritizovaná, naposledy se nad vleklým soudem s Davidem Rathem [pozastavil i šéf Nejvyššího kontrolního úřadu](https://www.irozhlas.cz/zpravy-domov/miloslav-kala-nejvyssi-kontrolni-urad-nku-david-rath-andrej-babis_1808130600_ogo).
+Čím dříve trestný čin skončí pravomocným rozsudkem, tím dříve se obětem dostane zadostiučinění a také často odškodnění. Proto je délka řízení bedlivě sledována a často i kritizována, naposledy se nad vleklým soudem s Davidem Rathem [pozastavil i šéf Nejvyššího kontrolního úřadu](https://www.irozhlas.cz/zpravy-domov/miloslav-kala-nejvyssi-kontrolni-urad-nku-david-rath-andrej-babis_1808130600_ogo).
 
 Rychlé vyřešení věci závisí na dvou hlavních faktorech: jak rychle policie se stáním zástupcem pachatele předá soudu a za jak dlouho justice pravomocně rozhodne.
 
-Dle statistických listů trestních, které pro server iROZHLAS.cz zpracoval [Jakub Drápal z Katedry trestního práva PrF UK](https://www.prf.cuni.cz/detail-cloveka/1010944/1404044682/), od roku 2000 klesl přibližně na polovinu průměrný čas, který uplynul od spáchání trestného činu do chvíle, než policie pachatele začala stíhat. Navíc od roku 2002 výrazně ubylo případů, které se nestandardně vlekly.
+Dle statistických listů trestních, které pro server iROZHLAS.cz zpracoval [Jakub Drápal z Katedry trestního práva PF UK](https://www.prf.cuni.cz/detail-cloveka/1010944/1404044682/), od roku 2000 klesl přibližně na polovinu průměrný čas, který uplynul od spáchání trestného činu do chvíle, než policie pachatele začala stíhat. Navíc od roku 2002 výrazně ubylo případů, které se nestandardně vlekly.
 
 <wide>
 <div class="chart" id="agg_odspachanidostihani"></div>
@@ -24,25 +24,25 @@ Obdobně, i když pomaleji pak poklesl průměrný čas, který justice potřebo
 <div class="chart" id="agg_delkaodspachanidopm"></div>
 </wide>
 
-"Největší vliv bude mít zkrácení doby trestního řízení v obvodu Krajského soudu Ústí nad Labem, které je dáno masivním nárůstem počtu soudců okresních soudů v tomto soudním kraji," napsal serveru iROZHLAS viceprezident soudcovské unie a táborský trestní soudce Petr Černý. Dalších příčin je pak podle něho celá řada. Například setrvale klesá celkový počet trestných činů, což soudcům uvolňuje ruce.
+„Největší vliv bude mít zkrácení doby trestního řízení v obvodu Krajského soudu Ústí nad Labem, které je dáno masivním nárůstem počtu soudců okresních soudů v tomto soudním kraji,“ napsal serveru iROZHLAS viceprezident soudcovské unie a táborský trestní soudce Petr Černý. Dalších příčin je pak podle něho celá řada. Například setrvale klesá celkový počet trestných činů, což soudcům uvolňuje ruce.
 
-Soudci také dostávají více asistentů. "Ti jsou schopni jednodušší případy připravit  k vydání trestního příkazu nebo k hlavnímu líčení. Soudce pak neztrácí čas a může se soustředit na skutkově či právně složitější kauzy, na něž se dříve nedostávalo tolik prostoru," vysvětluje Černý.
+Soudci také dostávají více asistentů. „Ti jsou schopni jednodušší případy připravit  k vydání trestního příkazu nebo k hlavnímu líčení. Soudce pak neztrácí čas a může se soustředit na skutkově či právně složitější kauzy, na něž se dříve nedostávalo tolik prostoru,“ vysvětluje Černý.
 
 <left>
 	<p>
 	<b>Rath a další</b>
 	</p><p>
-	Grafy v článku neukazují extrémně vleklé případy. Je jich málo a proto z nich není možné dovozovat nějaký trend, je potřeba k nim přistupovat individuálně. V případě <a href="https://www.irozhlas.cz/zpravy-tag/david-rath">Davida Ratha</a> může za délku řízení sám obžalovaný, který do extrémů čerpá všechny opravné prostředky, opakovaně namítá podjatost soudců i přísedících a řízení tak prodlužuje. 
+	Grafy v článku neukazují extrémně vleklé případy. Je jich málo, a proto z nich není možné dovozovat nějaký trend, je potřeba k nim přistupovat individuálně. V případě <a href="https://www.irozhlas.cz/zpravy-tag/david-rath">Davida Ratha</a> může za délku řízení sám obžalovaný, který do extrémů čerpá všechny opravné prostředky, opakovaně namítá podjatost soudců i přísedících a řízení tak prodlužuje. 
 	</p>
-	<p>Nejde ale nezbytně o chybu systému: Obžalovaný má právo se bránit všemi zákonnými prostředky a rychlost řízení nesmí být na úkor nalezení spravedlnosti. Pregnantně to <a href="https://en.wikipedia.org/wiki/Blackstone%27s_formulation">vyjadřuje rčení</a> "lepší deset gaunerů na svobodě, než jeden nevinný za mřížemi."</p>
-	<p>U <a href="https://www.irozhlas.cz/zpravy-tag/lukas-necesany">Lukáše Nečesaného</a> je pak situace odlišná: Protahované řízení má na svědomí spor o vině, který hoří mezi Nejvyšším a Vrchním soudem. Kvůli zásahům těchto soudů se řízení stále vrací na začátek, došlo i k výměně nalézacího soudu.</p>
+	<p>Nejde ale nezbytně o chybu systému: obžalovaný má právo se bránit všemi zákonnými prostředky a rychlost řízení nesmí být na úkor nalezení spravedlnosti. Pregnantně to <a href="https://en.wikipedia.org/wiki/Blackstone%27s_formulation">vyjadřuje rčení</a> „lepší deset gaunerů na svobodě než jeden nevinný za mřížemi.“</p>
+	<p>U <a href="https://www.irozhlas.cz/zpravy-tag/lukas-necesany">Lukáše Nečesaného</a> je pak situace odlišná: protahované řízení má na svědomí zejména spor o vině, který hoří mezi Nejvyšším a vrchním soudem. Kvůli zásahům těchto soudů se řízení stále vrací na začátek, došlo i k výměně nalézacího soudu.</p>
 </left>
 
 ## Pomohli zkušenější policisté i trestní příkazy
 
-Rychlejšímu skončení věci pak nahrály i v minulosti zavedené procesní úpravy. "U podvodů a podobné trestné činnosti se tak předešlo mnohdy několikadennímu úmornému předčítání stovek faktur, účetních závěrek a podobně," dodává.
+Rychlejšímu skončení věci pak nahrály i v minulosti zavedené procesní úpravy. „U podvodů a podobné trestné činnosti se tak předešlo mnohdy několikadennímu úmornému předčítání stovek faktur, účetních závěrek a podobně,“ dodává.
 
-Policisté i státní zástupci jsou také zkušenější. "Před 20 lety, kdy jsem začínal, byla takzvaná _skupinovka_ se 3 pachateli věc téměř nevídaná, a když se u okresního soudu v Jižních Čechách, kde jsem začínal, objevila, mohl si být soudce, kterému napadla téměř jist, že další dostane nejdříve za rok," uzavírá Černý.
+Policisté i státní zástupci jsou také zkušenější. „Před 20 lety, kdy jsem začínal, byla takzvaná _skupinovka_ se 3 pachateli věc téměř nevídaná, a když se u okresního soudu v Jižních Čechách, kde jsem začínal, objevila, mohl si být soudce, kterému napadla téměř jist, že další dostane nejdříve za rok,“ uzavírá Černý.
 
 Na rychlost vyřízení případu má vliv i to, zda soudce použije [trestní příkaz](https://cs.wikipedia.org/wiki/Trestn%C3%AD_p%C5%99%C3%ADkaz) a obviněný výsledek soudu přijme (pokud ne, odehraje se standardní líčení). Trestním příkazem je možné trestat jen jasně dokázané přečiny a nelze jím někoho poslat do vězení. Používá se tak k trestání [fotbalových chuligánů](https://www.ceskatelevize.cz/sport/fotbal/nizsi-souteze/351746-za-vytrznosti-v-opave-padaly-tresty-podminka-pokuta-i-prospesne-prace/?mobileRedirect=off) či [pouličních rváčů](https://www.seznamzpravy.cz/clanek/trest-za-peprovy-sprej-do-obliceje-bezdomovcu-na-sjezdu-cssd-je-definitivni-kotrba-slibil-ze-zaplati-47045).
 
@@ -54,15 +54,15 @@ Statistiky ukazují, že věci vyřešené trestním příkazem jsou opravdu vý
 <div class="chart" id="aggTP_delkaodspachanidopm"></div>
 </wide>
 
-I když z dlouhodobého pohledu trestání v Česku zrychlilo, například u zanedbání povinné výživy se situace v posledních deseti letech zhoršila. Práce policie by tu měla být svižná svižná, pachatel je vždy bezpečně známý, od roku 2005 ale vzrostla jak průměrná, tak i maximální doba potřebná k vydání pravomocného rozsudku.
+I když z dlouhodobého pohledu trestání v Česku zrychlilo, například u zanedbání povinné výživy se situace v posledních deseti letech zhoršila. Práce policie by tu měla být svižná, pachatel je vždy bezpečně známý, od roku 2005 ale vzrostla jak průměrná, tak i maximální doba potřebná k vydání pravomocného rozsudku.
 
 <right>
-<p>Celoevropské srovnání <a href="https://ec.europa.eu/info/policies/justice-and-fundamental-rights/effective-justice/eu-justice-scoreboard_en">EU Justice Scoreboard</a> porovnává rychlost soudů v členských státech, srovnání se ale týká jen civilních, obchodních a správních případů, trestní věci (s výjimkou praní špinavých peněz) ale zahrnuty nejsou.</p>
+<p>Celoevropské srovnání <a href="https://ec.europa.eu/info/policies/justice-and-fundamental-rights/effective-justice/eu-justice-scoreboard_en">EU Justice Scoreboard</a> porovnává rychlost soudů v členských státech, srovnání se ale týká jen civilních, obchodních a správních případů, trestní věci (s výjimkou praní špinavých peněz) zahrnuty nejsou.</p>
 </right>
 
-"Vzrostl počet případů, v nichž povinný opustil území České republiky, nebo se vysloveně jedná o cizince, který se vrátil do domovského státu, se kterým je mnohdy problematická spolupráce," vysvětluje soudce Černý, které čerpá ze svých debat s kolegy. Takové případy pak vyžadují spolupráci policií a případně i Interpolem. 
+„Vzrostl počet případů, v nichž povinný opustil území České republiky, nebo se vysloveně jedná o cizince, který se vrátil do domovského státu, se kterým je mnohdy problematická spolupráce,“ vysvětluje soudce Černý, které čerpá ze svých debat s kolegy. Takové případy pak vyžadují spolupráci policií a případně i Interpolem. 
 
-"Pokud se po nějaké době podaří obviněného nalézt, končí řízení proti uprchlému a ten může požádat, aby se všechny důkazy do té doby provedené před soudem zopakovaly," dodává s dovětkem, že "takovýto případ znamená často víceleté souzení opticky _jednoduché_ věci, které při menším počtu případů zvyšuje průměrnou délku trestního řízení a velmi je prodražuje."
+„Pokud se po nějaké době podaří obviněného nalézt, končí řízení proti uprchlému a ten může požádat, aby se všechny důkazy do té doby provedené před soudem zopakovaly,“ dodává s dovětkem, že „takovýto případ znamená často víceleté souzení opticky _jednoduché_ věci, které při menším počtu případů zvyšuje průměrnou délku trestního řízení a velmi je prodražuje.“
 
 <wide>
 <div class="chart" id="agg196_delkaodspachanidopm"></div>
