@@ -18,10 +18,10 @@ var paragrafy = {
 };
 
 var trvani = {
-    'delkaodspachanidopm': ['od spáchání do právní moci rozsudku', 'rok právní moci'],
+    'delkaodspachanidopm': ['od spáchání činu do právní moci rozsudku', 'rok právní moci'],
     'delkaodstihanidorozhodnuti': ['od zahájení stíhání do rozsudku', 'rok rozsudku'],
-    'odspachanidorozhodnuti': ['od spáchání do rozsudku', 'rok rozsudku'],
-    'odspachanidostihani': ['od spáchání do zahájení stíhání', 'rok zahájení stíhání']
+    'odspachanidorozhodnuti': ['od spáchání činu do rozsudku', 'rok rozsudku'],
+    'odspachanidostihani': ['od spáchání činu do zahájení stíhání', 'rok zahájení stíhání']
 };
 
 var typy = {
@@ -67,7 +67,7 @@ function drawChart(srs) {
         },
         subtitle: {
             text: getCol(srs)[2]
-        }, 
+        },
         xAxis: {
             categories: data[srs].roky,
             title: {
