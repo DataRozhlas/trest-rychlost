@@ -1,6 +1,6 @@
-title: "Trestní justice navzdory velkým kauzám zrychluje. Poškození se práva domohou dříve"
+title: "Data: čas od spáchání trestného činu k rozsudku klesl na polovinu. Kauzy Rath či Nečesaný jsou výjimky"
 perex: "David Rath či Lukáš Nečesaný. Oba případy často slouží jako příklady selhání tuzemské justice. Podle unikátních dat přitom od 90. let trestní řízení znatelně zrychlila a ubývá i vleklých případů."
-published: "20. srpna 2018"
+published: "27. srpna 2018"
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/rath_danelova01_180306-131448_jak.jpg?itok=dpM51AZ0
 coverimg_note: "David Rath u Krajského soudu v Praze 8. března 2018. Foto Michaela Danelová, Český rozhlas"
 styles: []
@@ -42,7 +42,7 @@ Soudci také dostávají více asistentů. „Ti jsou schopni jednodušší př�
 
 Rychlejšímu skončení věci pak nahrály i v minulosti zavedené procesní úpravy. „U podvodů a podobné trestné činnosti se tak předešlo mnohdy několikadennímu úmornému předčítání stovek faktur, účetních závěrek a podobně,“ dodává táborský soudce.
 
-Policisté i státní zástupci jsou také zkušenější. „Před 20 lety, kdy jsem začínal, byla takzvaná ‚skupinovka‘ se 3 pachateli věc téměř nevídaná, a když se u okresního soudu v Jižních Čechách, kde jsem začínal, objevila, mohl si být soudce, kterému napadla, téměř jist, že další dostane nejdříve za rok,“ uzavírá Černý.
+Policisté i státní zástupci jsou také zkušenější. „Před 20 lety, kdy jsem začínal, byla takzvaná ‚skupinovka‘ se 3 pachateli věc téměř nevídaná, a když se u okresního soudu v jižních Čechách, kde jsem začínal, objevila, mohl si být soudce, kterému napadla, téměř jist, že další dostane nejdříve za rok,“ uzavírá Černý.
 
 Na rychlost vyřízení případu má vliv i to, zda soudce použije [trestní příkaz](https://cs.wikipedia.org/wiki/Trestn%C3%AD_p%C5%99%C3%ADkaz) a obviněný výsledek soudu přijme (pokud ne, odehraje se standardní líčení). Trestním příkazem je možné trestat jen jasně dokázané přečiny a nelze jím někoho poslat do vězení. Používá se tak k trestání [fotbalových chuligánů](https://www.ceskatelevize.cz/sport/fotbal/nizsi-souteze/351746-za-vytrznosti-v-opave-padaly-tresty-podminka-pokuta-i-prospesne-prace/?mobileRedirect=off) či [pouličních rváčů](https://www.seznamzpravy.cz/clanek/trest-za-peprovy-sprej-do-obliceje-bezdomovcu-na-sjezdu-cssd-je-definitivni-kotrba-slibil-ze-zaplati-47045).
 
