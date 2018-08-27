@@ -12,7 +12,7 @@ options: [] #wide, noheader (, nopic)
 
 Rychlé vyřešení věci závisí na dvou hlavních faktorech: jak rychle policie se státním zástupcem pachatele předají soudu a za jak dlouho justice pravomocně rozhodne.
 
-Dle statistických listů trestních, které pro server iROZHLAS.cz [zpracoval Jakub Drápal](https://www.prf.cuni.cz/detail-cloveka/1010944/1404044682/) z Katedry trestního práva Právnické fakulty Univerzity Karlovy, klesl od roku 2000 přibližně na polovinu průměrný čas, který uplynul od spáchání trestného činu do chvíle, než policie začala pachatele stíhat. Navíc od roku 2002 výrazně ubylo případů, které se nestandardně vlekly.
+Dle statistických listů trestních, které pro server iROZHLAS.cz [zpracoval Jakub Drápal](https://www.prf.cuni.cz/detail-cloveka/1010944/1404044682/) _(bezpartijní, kandiduje do zastupitelstva Hlavního města Prahy na 49. místě občanské kandidátky Praha sobě)_ z Katedry trestního práva Právnické fakulty Univerzity Karlovy, klesl od roku 2000 přibližně na polovinu průměrný čas, který uplynul od spáchání trestného činu do chvíle, než policie začala pachatele stíhat. Navíc od roku 2002 výrazně ubylo případů, které se nestandardně vlekly.
 
 <wide>
 <div class="chart" id="agg_odspachanidostihani"></div>
